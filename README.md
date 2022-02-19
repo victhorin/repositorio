@@ -37,7 +37,7 @@ Para que sejam utilizados os programas acima serão necessários:
 
 ### Tecnologias Utilizadas ⚙️
 
-| **Eclipse IDE ** |        JAVA SE         |
+| Eclipse IDE  |        JAVA SE         |
 | :--------------: | :--------------------: |
 |     2021‑12      | 17.0.2  2022-01-18 LTS |
 
